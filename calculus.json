@@ -1,0 +1,2897 @@
+[{
+  "name": "Chapter P",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-1/",
+    "videos": [{
+      "name": "Graph of a polynomial function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-1/graph-of-a-polynomial-function/",
+      "videoUrl": "https://player.vimeo.com/video/57944800?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graph an equation by point-plotting",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-1/graph-an-equation-by-point-plotting/",
+      "videoUrl": "https://player.vimeo.com/video/56631243?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding intercepts of an equation",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-1/finding-intercepts-of-an-equation/",
+      "videoUrl": "https://player.vimeo.com/video/56631422?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Symmetry of a graph - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-1/symmetry-of-a-graph-a/",
+      "videoUrl": "https://player.vimeo.com/video/56631508?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Symmetry of a graph - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-1/symmetry-of-a-graph-b/",
+      "videoUrl": "https://player.vimeo.com/video/57873964?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding points of intersection",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-1/finding-points-of-intersection/",
+      "videoUrl": "https://player.vimeo.com/video/56631578?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to modeling - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-1/introduction-to-modeling-a/",
+      "videoUrl": "https://player.vimeo.com/video/56631631?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to modeling - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-1/introduction-to-modeling-b/",
+      "videoUrl": "https://player.vimeo.com/video/56631672?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-2/",
+    "videos": [{
+      "name": "Slope of a line",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-2/slope-of-a-line/",
+      "videoUrl": "https://player.vimeo.com/video/56631737?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Write the equation of a line given a point and the slope",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-2/write-the-equation-of-a-line-given-a-point-and-the-slope/",
+      "videoUrl": "https://player.vimeo.com/video/56631801?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Application Problem: Average rate of change",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-2/application-problem-average-rate-of-change/",
+      "videoUrl": "https://player.vimeo.com/video/57942485?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Rate of change",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-2/rate-of-change/",
+      "videoUrl": "https://player.vimeo.com/video/56631907?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graph a line given the slope and intercept",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-2/graph-a-line-given-the-slope-and-intercept/",
+      "videoUrl": "https://player.vimeo.com/video/56631949?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graphing linear functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-2/graphing-linear-functions/",
+      "videoUrl": "https://player.vimeo.com/video/63162955?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find equations of parallel and perpendicular lines",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-2/find-equations-of-parallel-and-perpendicular-lines/",
+      "videoUrl": "https://player.vimeo.com/video/56632067?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/",
+    "videos": [{
+      "name": "Evaluate a function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/evaluate-a-function/",
+      "videoUrl": "https://player.vimeo.com/video/57942511?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find domain and range of a function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/find-domain-and-range-of-a-function/",
+      "videoUrl": "https://player.vimeo.com/video/56632167?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graph piecewise functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/graph-piecewise-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56632204?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use a piecewise linear Model to make spending decisions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/use-a-piecewise-linear-model-to-make-spending-decisions/",
+      "videoUrl": "https://player.vimeo.com/video/56632332?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Identify graphs of basic functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/identify-graphs-of-basic-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56632674?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graph a radical function - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/graph-a-radical-function/",
+      "videoUrl": "https://player.vimeo.com/video/56632725?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graph a radical function - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/graph-a-radical-function-b/",
+      "videoUrl": "https://player.vimeo.com/video/56632770?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Transformations of functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/transformations-of-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56632819?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Composition of functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/composition-of-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56632880?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Even and odd symmetry of functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-3/even-and-odd-symmetry-of-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56632923?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-4/",
+    "videos": [{
+      "name": "Fitting a linear model to data - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-4/fitting-a-linear-model-to-data-a/",
+      "videoUrl": "https://player.vimeo.com/video/56632981?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Fitting a linear model to data - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-4/fitting-a-linear-model-to-data-b/",
+      "videoUrl": "https://player.vimeo.com/video/56633013?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Fitting a linear model to data - C",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-4/fitting-a-linear-model-to-data-c/",
+      "videoUrl": "https://player.vimeo.com/video/56633063?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Fitting a linear model to data - D",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-4/fitting-a-linear-model-to-data-d/",
+      "videoUrl": "https://player.vimeo.com/video/56633090?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Application - Graphing a linear function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-4/application-graphing-a-linear-function/",
+      "videoUrl": "https://player.vimeo.com/video/56633367?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graph a quadratic function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-4/graph-a-quadratic-function/",
+      "videoUrl": "https://player.vimeo.com/video/57944558?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find derivatives of trigonometric functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-p/section-4/find-derivatives-of-trigonometric-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56694782?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 1",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/sample-section-one/",
+    "videos": [{
+      "name": "What is Calculus",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/sample-section-one/what-is-calculus/",
+      "videoUrl": "https://player.vimeo.com/video/56633701?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The tangent line problem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/sample-section-one/the-tangent-line-problem/",
+      "videoUrl": "https://player.vimeo.com/video/56633788?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The area problem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/sample-section-one/the-area-problem/",
+      "videoUrl": "https://player.vimeo.com/video/56633889?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/sample-section-two/",
+    "videos": [{
+      "name": "An introduction to limits",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/sample-section-two/an-introduction-to-limits/",
+      "videoUrl": "https://player.vimeo.com/video/56633939?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Different limits from the right and left",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/sample-section-two/different-limits-from-the-right-and-left/",
+      "videoUrl": "https://player.vimeo.com/video/56634115?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Formal definition of limit - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/sample-section-two/formal-definition-of-limit-a/",
+      "videoUrl": "https://player.vimeo.com/video/56635556?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Formal definition of limit - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/sample-section-two/formal-definition-of-limit-b/",
+      "videoUrl": "https://player.vimeo.com/video/56635618?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/",
+    "videos": [{
+      "name": "Proof - Some basic limits",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/proof-some-basic-limits/",
+      "videoUrl": "https://player.vimeo.com/video/70405067?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Property of limits",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/proof-property-of-limits/",
+      "videoUrl": "https://player.vimeo.com/video/70405115?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - The Limit of a Function Involving a Radical",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/proof-the-limit-of-a-function-involving-a-radical/",
+      "videoUrl": "https://player.vimeo.com/video/70405161?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - The Limit of a Composite Function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/proof-the-limit-of-a-composite-function/",
+      "videoUrl": "https://player.vimeo.com/video/70405185?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Functions that agree at all but one point",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/proof-functions-that-agree-at-all-but-one-point/",
+      "videoUrl": "https://player.vimeo.com/video/70405225?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - The squeeze theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/proof-the-squeeze-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/70405262?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Two special trigonometric limits",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/proof-two-special-trigonometric-limits/",
+      "videoUrl": "https://player.vimeo.com/video/70405299?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Properties of limits",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/properties-of-limits/",
+      "videoUrl": "https://player.vimeo.com/video/56635700?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluate a limit of a polynomial function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/evaluate-a-limit-of-a-polynomial-function/",
+      "videoUrl": "https://player.vimeo.com/video/56635818?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Limits of polynomial and rational functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/limits-of-polynomial-and-rational-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56635873?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding limits with the rules of limits",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/finding-limits-with-the-rules-of-limits/",
+      "videoUrl": "https://player.vimeo.com/video/56636703?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Strategy for finding limits",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/strategy-for-finding-limits/",
+      "videoUrl": "https://player.vimeo.com/video/56636790?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Limit properties and evaluation",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/limit-properties-and-evaluation/",
+      "videoUrl": "https://player.vimeo.com/video/56636877?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Dividing out technique",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/dividing-out-technique/",
+      "videoUrl": "https://player.vimeo.com/video/56636980?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The squeeze theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-3/the-squeeze-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/56637038?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/",
+    "videos": [{
+      "name": "Proof - Properties of continuity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/proof-properties-of-continuity/",
+      "videoUrl": "https://player.vimeo.com/video/70405336?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Continuity of a composite function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/proof-continuity-of-a-composite-function/",
+      "videoUrl": "https://player.vimeo.com/video/70405379?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Continuity and discontinuity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/continuity-and-discontinuity/",
+      "videoUrl": "https://player.vimeo.com/video/56637103?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to continuity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/introduction-to-continuity/",
+      "videoUrl": "https://player.vimeo.com/video/56637184?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluate one-sided limits",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/evaluate-one-sided-limits/",
+      "videoUrl": "https://player.vimeo.com/video/56637271?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Limits of piecewise defined functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/limits-of-piecewise-defined-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56637340?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Determine the continuity of functions on a closed interval",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/determine-the-continuity-of-functions-on-a-closed-interval/",
+      "videoUrl": "https://player.vimeo.com/video/56637400?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Properties of continuity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/properties-of-continuity/",
+      "videoUrl": "https://player.vimeo.com/video/56637451?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The intermediate value theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/the-intermediate-value-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/56637524?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use the intermediate value theorem to help locate zeros of polynomial functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-4/use-the-intermediate-value-theorem-to-help-locate-zeros-of-polynomial-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56637619?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-5/",
+    "videos": [{
+      "name": "Proof - Vertical asymptotes",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-5/proof-vertical-asymptotes/",
+      "videoUrl": "https://player.vimeo.com/video/70405421?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof  - Properties of infinite limits",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-5/proof-properties-of-infinite-limits/",
+      "videoUrl": "https://player.vimeo.com/video/70405455?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Determine asymptotes of rational equations",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-1/section-5/determine-asymptotes-of-rational-equations/",
+      "videoUrl": "https://player.vimeo.com/video/56637725?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 2",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/",
+    "videos": [{
+      "name": "Proof: Alternative form of the derivative",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/proof-alternative-form-of-the-derivative/",
+      "videoUrl": "https://player.vimeo.com/video/57695163?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof: Differentiability Implies Continuity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/proof-differentiability-implies-continuity/",
+      "videoUrl": "https://player.vimeo.com/video/57695294?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Slope of tangent lines to a point on a curve",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/slope-of-tangent-lines-to-a-point-on-a-curve-2/",
+      "videoUrl": "https://player.vimeo.com/video/56637917?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Tangent line with slope m - Part A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/tangent-line-with-slope-m-part-a/",
+      "videoUrl": "https://player.vimeo.com/video/56637982?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Tangent line with slope m- Part B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/tangent-line-with-slope-m-part-b/",
+      "videoUrl": "https://player.vimeo.com/video/56639952?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use the limit definition to find the slopes of graphs at points",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/use-the-limit-definition-to-find-the-slopes-of-graphs-at-points-2/",
+      "videoUrl": "https://player.vimeo.com/video/56640555?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use the limit definition to find the derivatives of functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/use-the-limit-definition-to-find-the-derivatives-of-functions-2/",
+      "videoUrl": "https://player.vimeo.com/video/56640624?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the derivative of a function using the definition",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/find-the-derivative-of-a-function-using-the-definition/",
+      "videoUrl": "https://player.vimeo.com/video/56640775?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Calculate the derivative of a function at multiple points",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/calculate-the-derivative-of-a-function-at-multiple-points/",
+      "videoUrl": "https://player.vimeo.com/video/56640946?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Nondifferentiability of the absolute value function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/nondifferentiability-of-the-absolute-value-function/",
+      "videoUrl": "https://player.vimeo.com/video/56641476?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Describe the relationship between differentiability and continuity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-1/describe-the-relationship-between-differentiability-and-continuity/",
+      "videoUrl": "https://player.vimeo.com/video/56642031?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/",
+    "videos": [{
+      "name": "Proof: The Constant Multiple Rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/proof-the-constant-multiple-rule/",
+      "videoUrl": "https://player.vimeo.com/video/46539419?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof: The Constant Rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/proof-the-constant-rule/",
+      "videoUrl": "https://player.vimeo.com/video/57695419?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof: The Power Rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/proof-the-power-rule/",
+      "videoUrl": "https://player.vimeo.com/video/46539252?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof: The Sum and Difference Rules",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/proof-the-sum-and-difference-rules/",
+      "videoUrl": "https://player.vimeo.com/video/46539511?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof: Derivatives of Sine and Cosine Functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/proof-derivatives-of-sine-and-cosine-functions/",
+      "videoUrl": "https://player.vimeo.com/video/46539680?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Derivative of a constant",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/derivative-of-a-constant-2/",
+      "videoUrl": "https://player.vimeo.com/video/56654605?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find derivatives using the constant rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/find-derivatives-using-the-constant-rule/",
+      "videoUrl": "https://player.vimeo.com/video/56654644?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The power rule for derivatives",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/the-power-rule-for-derivatives/",
+      "videoUrl": "https://player.vimeo.com/video/56655066?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the equation of a tangent line with basic derivative rules",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/find-the-equation-of-a-tangent-line-with-basic-derivative-rules/",
+      "videoUrl": "https://player.vimeo.com/video/56655135?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The constant multiple rule for derivatives",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/the-constant-multiple-rule-for-derivatives/",
+      "videoUrl": "https://player.vimeo.com/video/56655189?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the derivatives of functions using the constant multiple rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/find-the-derivatives-of-functions-using-the-constant-multiple-rule/",
+      "videoUrl": "https://player.vimeo.com/video/56655290?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the derivatives of functions using the sum and difference rules",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/find-the-derivatives-of-functions-using-the-sum-and-difference-rules/",
+      "videoUrl": "https://player.vimeo.com/video/56655348?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Derivative rules for sine and cosine",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/derivative-rules-for-sine-and-cosine/",
+      "videoUrl": "https://player.vimeo.com/video/56655421?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find average velocity - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/find-average-velocity-a/",
+      "videoUrl": "https://player.vimeo.com/video/56655517?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find average velocity - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/find-average-velocity-b/",
+      "videoUrl": "https://player.vimeo.com/video/56655583?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding velocity and acceleration",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-2/finding-velocity-and-acceleration/",
+      "videoUrl": "https://player.vimeo.com/video/56655648?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/",
+    "videos": [{
+      "name": "Proof: The Product Rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/proof-the-product-rule/",
+      "videoUrl": "https://player.vimeo.com/video/46539797?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof: The Quotient Rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/proof-the-quotient-rule/",
+      "videoUrl": "https://player.vimeo.com/video/46539900?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof: Derivatives of Trigonometric Functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/proof-derivatives-of-trigonometric-functions/",
+      "videoUrl": "https://player.vimeo.com/video/46540029?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the derivatives of functions using the product rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/find-the-derivatives-of-functions-using-the-product-rule-2/",
+      "videoUrl": "https://player.vimeo.com/video/56655688?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Product rule involving sine",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/product-rule-involving-sine/",
+      "videoUrl": "https://player.vimeo.com/video/56655753?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Product rule - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/product-rule-a-2/",
+      "videoUrl": "https://player.vimeo.com/video/56655892?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Product rule - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/product-rule-b-2/",
+      "videoUrl": "https://player.vimeo.com/video/56655965?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Quotient rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/quotient-rule-2/",
+      "videoUrl": "https://player.vimeo.com/video/56656026?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The quotient rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/the-quotient-rule/",
+      "videoUrl": "https://player.vimeo.com/video/56656079?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the derivatives of functions using the power rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/find-the-derivatives-of-functions-using-the-power-rule/",
+      "videoUrl": "https://player.vimeo.com/video/56656130?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Derivatives of trigonometric functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/derivatives-of-trigonometric-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56691466?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Higher order derivatives",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-3/higher-order-derivatives/",
+      "videoUrl": "https://player.vimeo.com/video/56691530?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/",
+    "videos": [{
+      "name": "Proof: The Chain Rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/proof-the-chain-rule/",
+      "videoUrl": "https://player.vimeo.com/video/46540144?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof: The Chain Rule General Form",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/proof-the-chain-rule-general-form/",
+      "videoUrl": "https://player.vimeo.com/video/46540241?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof: The General Power Rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/proof-the-general-power-rule/",
+      "videoUrl": "https://player.vimeo.com/video/46617368?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to chain rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/introduction-to-chain-rule/",
+      "videoUrl": "https://player.vimeo.com/video/56691607?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find derivatives using the chain rule - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/find-derivatives-using-the-chain-rule-a/",
+      "videoUrl": "https://player.vimeo.com/video/56693805?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find derivatives using the chain rule - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/find-derivatives-using-the-chain-rule-b/",
+      "videoUrl": "https://player.vimeo.com/video/56693860?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Write derivatives in simplified form",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/write-derivatives-in-simplified-form/",
+      "videoUrl": "https://player.vimeo.com/video/56693947?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The chain rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/the-chain-rule/",
+      "videoUrl": "https://player.vimeo.com/video/56693988?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Apply the chain rule repeatedly - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/apply-the-chain-rule-repeatedly-a/",
+      "videoUrl": "https://player.vimeo.com/video/56694842?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Apply the chain rule repeatedly - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-4/apply-the-chain-rule-repeatedly-b/",
+      "videoUrl": "https://player.vimeo.com/video/56695004?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-5/",
+    "videos": [{
+      "name": "Implicit and explicit functions and their derivatives",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-5/implicit-and-explicit-functions-and-their-derivatives/",
+      "videoUrl": "https://player.vimeo.com/video/56695100?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Implicit differentiation",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-5/implicit-differentiation/",
+      "videoUrl": "https://player.vimeo.com/video/56695160?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluation of slope using implicit differentiation",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-5/evaluation-of-slope-using-implicit-differentiation/",
+      "videoUrl": "https://player.vimeo.com/video/56695233?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Identify tangent lines to a graph at a point",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-5/identify-tangent-lines-to-a-graph-at-a-point/",
+      "videoUrl": "https://player.vimeo.com/video/56695295?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-6/",
+    "videos": [{
+      "name": "Solve related-rate problems - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-6/solve-related-rate-problems-a/",
+      "videoUrl": "https://player.vimeo.com/video/56695356?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Solve related-rate problems - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-6/solve-related-rate-problems-b/",
+      "videoUrl": "https://player.vimeo.com/video/56695432?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Related rates - ripples in a pond",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-6/related-rates-ripples-in-a-pond/",
+      "videoUrl": "https://player.vimeo.com/video/56695510?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Related rates - an inflating balloon",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-6/related-rates-an-inflating-balloon/",
+      "videoUrl": "https://player.vimeo.com/video/56695601?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Related rates - speed of an airplane",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-2/section-6/related-rates-speed-of-an-airplane/",
+      "videoUrl": "https://player.vimeo.com/video/56695681?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 3",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-1/",
+    "videos": [{
+      "name": "Proof - Relative Extrema Occur Only at Critical Numbers",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-1/proof-relative-extrema-occur-only-at-critical-numbers/",
+      "videoUrl": "https://player.vimeo.com/video/71043707?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Extrema of a function and the extreme value theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-1/extrema-of-a-function-and-the-extreme-value-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/56695844?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Relative extrema and critical numbers",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-1/relative-extrema-and-critical-numbers/",
+      "videoUrl": "https://player.vimeo.com/video/56695948?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find absolute extrema of continuous functions on a closed interval - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-1/find-absolute-extrema-of-continuous-functions-on-a-closed-interval-a/",
+      "videoUrl": "https://player.vimeo.com/video/63329931?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find absolute extrema of continuous functions on a closed interval - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-1/find-absolute-extrema-of-continuous-functions-on-a-closed-interval-b/",
+      "videoUrl": "https://player.vimeo.com/video/56696395?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-2/",
+    "videos": [{
+      "name": "Proof - Rolles Theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-2/proof-rolles-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/71043875?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - The Mean Value Theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-2/proof-the-mean-value-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/71044019?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Rolle's theorem and the mean value theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-2/rolles-theorem-and-the-mean-value-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/56696729?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The mean value theorem - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-2/the-mean-value-theorem-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/56696816?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The mean value theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-2/the-mean-value-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/56696883?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Average and instantaneous velocity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-2/average-and-instantaneous-velocity/",
+      "videoUrl": "https://player.vimeo.com/video/56698290?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Rolle's Theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-2/rolles-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/56696642?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-3/",
+    "videos": [{
+      "name": "Proof - Test for Increasing and Decreasing Functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-3/proof-test-for-increasing-and-decreasing-functions/",
+      "videoUrl": "https://player.vimeo.com/video/71044062?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - The First Derivative Test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-3/proof-the-first-derivative-test/",
+      "videoUrl": "https://player.vimeo.com/video/71044113?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Increasing and decreasing functions on an interval",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-3/increasing-and-decreasing-functions-on-an-interval/",
+      "videoUrl": "https://player.vimeo.com/video/56698763?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-4/",
+    "videos": [{
+      "name": "Proof - The Definition of Concavity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-4/proof-the-definition-of-concavity/",
+      "videoUrl": "https://player.vimeo.com/video/71044175?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Test for Concavity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-4/proof-test-for-concavity/",
+      "videoUrl": "https://player.vimeo.com/video/71044224?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Second Derivative Test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-4/proof-second-derivative-test/",
+      "videoUrl": "https://player.vimeo.com/video/71044334?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Concavity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-4/concavity/",
+      "videoUrl": "https://player.vimeo.com/video/56698860?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Concavity and inflection points",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-4/concavity-and-inflection-points/",
+      "videoUrl": "https://player.vimeo.com/video/56698944?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Determine the concavity and the inflection points",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-4/determine-the-concavity-and-the-inflection-points/",
+      "videoUrl": "https://player.vimeo.com/video/56699004?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The second derivative test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-4/the-second-derivative-test/",
+      "videoUrl": "https://player.vimeo.com/video/56699087?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-5/",
+    "videos": [{
+      "name": "Proof - Limits at Infinity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-5/proof-limits-at-infinity/",
+      "videoUrl": "https://player.vimeo.com/video/71044418?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Definition of limits at infinity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-5/definition-of-limits-at-infinity/",
+      "videoUrl": "https://player.vimeo.com/video/56699171?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Limits at infinity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-5/limits-at-infinity/",
+      "videoUrl": "https://player.vimeo.com/video/56699229?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Vertical and horizontal asymptotes",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-5/vertical-and-horizontal-asymptotes/",
+      "videoUrl": "https://player.vimeo.com/video/56699371?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Formal definition of infinite limits",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-5/formal-definition-of-infinite-limits/",
+      "videoUrl": "https://player.vimeo.com/video/56699451?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-6/",
+    "videos": [{
+      "name": "Sketch the graph of a function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-6/sketch-the-graph-of-a-function/",
+      "videoUrl": "https://player.vimeo.com/video/56699612?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Sketch graphs of rational functions that have slant asymptotes",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-6/sketch-graphs-of-rational-functions-that-have-slant-asymptotes/",
+      "videoUrl": "https://player.vimeo.com/video/56699680?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the domain of a rational function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-6/find-the-domain-of-a-rational-function/",
+      "videoUrl": "https://player.vimeo.com/video/56699961?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 7",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-7/",
+    "videos": [{
+      "name": "Optimization - Finding maximum volume - solution",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-7/optimization-finding-maximum-volume-solution/",
+      "videoUrl": "https://player.vimeo.com/video/56700248?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Optimization - Finding minimum distance",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-7/optimization-finding-minimum-distance/",
+      "videoUrl": "https://player.vimeo.com/video/63329979?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Minimizing the material for a box - Part A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-7/minimizing-the-material-for-a-box-part-a/",
+      "videoUrl": "https://player.vimeo.com/video/56700740?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Minimizing the material for a box - Part B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-7/minimizing-the-material-for-a-box-part-b/",
+      "videoUrl": "https://player.vimeo.com/video/56700852?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Optimization - Finding minimum length - Part I",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-7/optimization-finding-minimum-length-part-i/",
+      "videoUrl": "https://player.vimeo.com/video/56701046?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Optimization - Finding minimum length - Part II",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-7/optimization-finding-minimum-length-part-ii/",
+      "videoUrl": "https://player.vimeo.com/video/56701119?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Optimization- finding minimum length- Part III",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-7/optimization-finding-minimum-length-part-iii/",
+      "videoUrl": "https://player.vimeo.com/video/56709704?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Optimization- finding minimum length- Part IV",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-7/optimization-finding-minimum-length-part-iv/",
+      "videoUrl": "https://player.vimeo.com/video/56709772?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 8",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-8/",
+    "videos": [{
+      "name": "Newton's method",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-8/newtons-method/",
+      "videoUrl": "https://player.vimeo.com/video/56709841?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Newton's method of approximating zeros - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-8/newtons-method-of-approximating-zeros-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/56709977?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Situations in which Newton's method fails",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-8/situations-in-which-newtons-method-fails/",
+      "videoUrl": "https://player.vimeo.com/video/56710037?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 9",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-9/",
+    "videos": [{
+      "name": "Tangent line approximations",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-9/tangent-line-approximations/",
+      "videoUrl": "https://player.vimeo.com/video/56710111?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Differentials - introduction",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-9/differentials-introduction/",
+      "videoUrl": "https://player.vimeo.com/video/56710209?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Differentials - Actual error and estimated error",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-9/differentials-actual-error-and-estimated-error/",
+      "videoUrl": "https://player.vimeo.com/video/63330030?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Calculating differentials",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-3/section-9/calculating-differentials/",
+      "videoUrl": "https://player.vimeo.com/video/56710791?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 4",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-1/",
+    "videos": [{
+      "name": "Proof - Representation of Antiderivatives",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-1/proof-representation-of-antiderivatives/",
+      "videoUrl": "https://player.vimeo.com/video/71044478?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Antiderivatives",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-1/antiderivatives/",
+      "videoUrl": "https://player.vimeo.com/video/56710878?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use basic integration rules to find antiderivatives",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-1/use-basic-integration-rules-to-find-antiderivatives/",
+      "videoUrl": "https://player.vimeo.com/video/56710984?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use initial conditions to find particular solutions of indefinite integrals - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-1/use-initial-conditions-to-find-particular-solutions-of-indefinite-integrals-a/",
+      "videoUrl": "https://player.vimeo.com/video/56711035?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use initial conditions to find particular solutions of indefinite integrals - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-1/use-initial-conditions-to-find-particular-solutions-of-indefinite-integrals-b/",
+      "videoUrl": "https://player.vimeo.com/video/56711228?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-2/",
+    "videos": [{
+      "name": "Proof - Summation Formulas",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-2/proof-summation-formulas/",
+      "videoUrl": "https://player.vimeo.com/video/71044539?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Write a partial sum of a series with sigma notation",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-2/write-a-partial-sum-of-a-series-with-sigma-notation/",
+      "videoUrl": "https://player.vimeo.com/video/56711279?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Using sigma notation",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-2/using-sigma-notation/",
+      "videoUrl": "https://player.vimeo.com/video/56711345?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Area of a rectangle",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-2/area-of-a-rectangle/",
+      "videoUrl": "https://player.vimeo.com/video/56713161?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Area of a region in the plane",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-2/area-of-a-region-in-the-plane/",
+      "videoUrl": "https://player.vimeo.com/video/56713221?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-3/",
+    "videos": [{
+      "name": "Proof - Preservation of Inequality",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-3/proof-preservation-of-inequality/",
+      "videoUrl": "https://player.vimeo.com/video/71044582?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Area from Riemann sums - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-3/area-from-riemann-sums-a/",
+      "videoUrl": "https://player.vimeo.com/video/56713290?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Area from Riemann sums - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-3/area-from-riemann-sums-b/",
+      "videoUrl": "https://player.vimeo.com/video/56713380?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluation of a definite integral as a limit - Part I",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-3/evaluation-of-a-definite-integral-as-a-limit-part-i/",
+      "videoUrl": "https://player.vimeo.com/video/56713437?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluation of a definite integral as a limit - Part II",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-3/evaluation-of-a-definite-integral-as-a-limit-part-ii/",
+      "videoUrl": "https://player.vimeo.com/video/56713493?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluation of a definite integral",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-3/evaluation-of-a-definite-integral/",
+      "videoUrl": "https://player.vimeo.com/video/56713579?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Properties of the definite integral - Part A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-3/properties-of-the-definite-integral-part-a/",
+      "videoUrl": "https://player.vimeo.com/video/56713685?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Properties of the definite integral - Part B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-3/properties-of-the-definite-integral-part-b/",
+      "videoUrl": "https://player.vimeo.com/video/56716886?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-4/",
+    "videos": [{
+      "name": "Proof - The Fundamental Theorem of Calculus",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-4/proof-the-fundamental-theorem-of-calculus/",
+      "videoUrl": "https://player.vimeo.com/video/71044634?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Mean Value Theorem for Integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-4/proof-mean-value-theorem-for-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/71044684?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - The Second Fundamental Theorem of Calculus",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-4/proof-the-second-fundamental-theorem-of-calculus/",
+      "videoUrl": "https://player.vimeo.com/video/71044723?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Fundamental theorem of calculus",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-4/fundamental-theorem-of-calculus/",
+      "videoUrl": "https://player.vimeo.com/video/56716997?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Mean value theorem for integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-4/mean-value-theorem-for-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/56717184?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Average value of a function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-4/average-value-of-a-function/",
+      "videoUrl": "https://player.vimeo.com/video/56717293?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Second fundamental theorem of calculus",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-4/second-fundamental-theorem-of-calculus/",
+      "videoUrl": "https://player.vimeo.com/video/56717410?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-5/",
+    "videos": [{
+      "name": "Proof - Integration of Even and Odd Functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-5/proof-integration-of-even-and-odd-functions/",
+      "videoUrl": "https://player.vimeo.com/video/71044768?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "A simple integral by substitution",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-5/a-simple-integral-by-substitution/",
+      "videoUrl": "https://player.vimeo.com/video/56717911?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Change of variables for indefinite integrals - Part I",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-5/change-of-variables-for-indefinite-integrals-part-i/",
+      "videoUrl": "https://player.vimeo.com/video/56717973?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Change of variables for indefinite integrals - Part II",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-5/change-of-variables-for-indefinite-integrals-part-ii/",
+      "videoUrl": "https://player.vimeo.com/video/56718217?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The general power rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-5/the-general-power-rule/",
+      "videoUrl": "https://player.vimeo.com/video/144513605?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Change of variables for definite integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-5/change-of-variables-for-definite-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/56718338?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-6/",
+    "videos": [{
+      "name": "Proof - Integral of p(x)",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-6/proof-integral-of-px/",
+      "videoUrl": "https://player.vimeo.com/video/71044820?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Using the trapezoidal rule to approximate an integral",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-6/using-the-trapezoidal-rule-to-approximate-an-integral/",
+      "videoUrl": "https://player.vimeo.com/video/56718518?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Using Simpson's rule to approximate an integral",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-6/using-simpsons-rule-to-approximate-an-integral/",
+      "videoUrl": "https://player.vimeo.com/video/56718606?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Error analysis with trapezoidal rule and Simpson's rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-4/section-6/error-analysis-with-trapezoidal-rule-and-simpsons-rule/",
+      "videoUrl": "https://player.vimeo.com/video/56718785?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 5",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-1/",
+    "videos": [{
+      "name": "Proof - Properties of the Natural Logarithmic Function - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-1/proof-properties-of-the-natural-logarithmic-function-a/",
+      "videoUrl": "https://player.vimeo.com/video/71044863?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Properties of the Natural Logarithmic Function - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-1/proof-properties-of-the-natural-logarithmic-function-b/",
+      "videoUrl": "https://player.vimeo.com/video/71046361?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Logarithmic Properties",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-1/proof-logarithmic-properties/",
+      "videoUrl": "https://player.vimeo.com/video/71044898?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Derivative Involving Absolute Value",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-1/proof-derivative-involving-absolute-value/",
+      "videoUrl": "https://player.vimeo.com/video/71044948?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Rewrite, expand, and condense logarithmic expression",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-1/rewrite-expand-and-condense-logarithmic-expression/",
+      "videoUrl": "https://player.vimeo.com/video/56719602?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Log rule for integration - Part I",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-1/log-rule-for-integration-part-i/",
+      "videoUrl": "https://player.vimeo.com/video/56758649?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Log rule for integration - Part II",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-1/log-rule-for-integration-part-ii/",
+      "videoUrl": "https://player.vimeo.com/video/56758722?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-2/",
+    "videos": []
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-3/",
+    "videos": [{
+      "name": "Proof - Reflective Property of Inverse Functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-3/proof-reflective-property-of-inverse-functions/",
+      "videoUrl": "https://player.vimeo.com/video/71044990?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - The Existence of an Inverse Function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-3/proof-the-existence-of-an-inverse-function/",
+      "videoUrl": "https://player.vimeo.com/video/71045052?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Continuity and Differentiability of Inverse Functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-3/proof-continuity-and-differentiability-of-inverse-functions/",
+      "videoUrl": "https://player.vimeo.com/video/71045100?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - The Derivative of an Inverse Function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-3/proof-the-derivative-of-an-inverse-function/",
+      "videoUrl": "https://player.vimeo.com/video/71045158?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the inverse of a function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-3/find-the-inverse-of-a-function/",
+      "videoUrl": "https://player.vimeo.com/video/56758776?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding the Inverse of a function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-3/finding-the-inverse-of-a-function/",
+      "videoUrl": "https://player.vimeo.com/video/56762787?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluation of the derivative of an inverse function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-3/evaluation-of-the-derivative-of-an-inverse-function/",
+      "videoUrl": "https://player.vimeo.com/video/56762851?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-4/",
+    "videos": [{
+      "name": "Proof - Operations with Exponential Functions multiply",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-4/proof-operations-with-exponential-functions-multiply/",
+      "videoUrl": "https://player.vimeo.com/video/71045202?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Operations with Exponential Functions divide",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-4/proof-operations-with-exponential-functions-divide/",
+      "videoUrl": "https://player.vimeo.com/video/71046485?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Derivatives of the Natural Exponential Function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-4/proof-derivatives-of-the-natural-exponential-function/",
+      "videoUrl": "https://player.vimeo.com/video/71045303?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Solving exponential and logarithmic equations - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-4/solving-exponential-and-logarithmic-equations-a/",
+      "videoUrl": "https://player.vimeo.com/video/56762893?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Solving exponential and logarithmic equations - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-4/solving-exponential-and-logarithmic-equations-b/",
+      "videoUrl": "https://player.vimeo.com/video/56763158?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-5/",
+    "videos": [{
+      "name": "Proof - Derivatives for Bases Other than e",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-5/proof-derivatives-for-bases-other-than-e/",
+      "videoUrl": "https://player.vimeo.com/video/71045341?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - A Limit Involving e",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-5/proof-a-limit-involving-e/",
+      "videoUrl": "https://player.vimeo.com/video/71045371?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the derivatives of natural exponential functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-5/find-the-derivatives-of-natural-exponential-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56763191?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Compound interest formula",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-5/compound-interest-formula/",
+      "videoUrl": "https://player.vimeo.com/video/56763237?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Application problems of compound interest",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-5/application-problems-of-compound-interest/",
+      "videoUrl": "https://player.vimeo.com/video/56763416?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-6/",
+    "videos": [{
+      "name": "Proof - Derivatives of Inverse Trigonometric Functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-6/proof-derivatives-of-inverse-trigonometric-functions/",
+      "videoUrl": "https://player.vimeo.com/video/71045408?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graphs of inverse trigonometric functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-6/graphs-of-inverse-trigonometric-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56700066?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 8",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-8/",
+    "videos": [{
+      "name": "Proof - Derivatives and Integrals of Hyperbolic Functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-8/proof-derivatives-and-integrals-of-hyperbolic-functions/",
+      "videoUrl": "https://player.vimeo.com/video/71045460?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Inverse Hyperbolic Functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-5/section-8/proof-inverse-hyperbolic-functions/",
+      "videoUrl": "https://player.vimeo.com/video/71045491?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 6",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-1/",
+    "videos": [{
+      "name": "Introduction to general and particular solutions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-1/introduction-to-general-and-particular-solutions/",
+      "videoUrl": "https://player.vimeo.com/video/56763505?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Particular solution",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-1/particular-solution/",
+      "videoUrl": "https://player.vimeo.com/video/56763554?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Euler's method - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-1/eulers-method-a/",
+      "videoUrl": "https://player.vimeo.com/video/56763590?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Euler's method - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-1/eulers-method-b/",
+      "videoUrl": "https://player.vimeo.com/video/56763645?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-2/",
+    "videos": [{
+      "name": "Proof - Exponential Growth and Decay Model",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-2/proof-exponential-growth-and-decay-model/",
+      "videoUrl": "https://player.vimeo.com/video/71045535?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Solving a differential equation by separation of variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-2/solving-a-differential-equation-by-separation-of-variables/",
+      "videoUrl": "https://player.vimeo.com/video/56763703?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use exponential growth and decay to model real-life situations - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-2/use-exponential-growth-and-decay-to-model-real-life-situations-a/",
+      "videoUrl": "https://player.vimeo.com/video/56763777?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use exponential growth and decay to model real-life situations - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-2/use-exponential-growth-and-decay-to-model-real-life-situations-b/",
+      "videoUrl": "https://player.vimeo.com/video/56763893?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Population growth",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-2/population-growth/",
+      "videoUrl": "https://player.vimeo.com/video/56763849?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Application Problems: Exponential decay",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-2/application-problems-exponential-decay/",
+      "videoUrl": "https://player.vimeo.com/video/56763948?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Newton's law of cooling",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-2/newtons-law-of-cooling/",
+      "videoUrl": "https://player.vimeo.com/video/56764014?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-3/",
+    "videos": [{
+      "name": "Separation of variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-3/separation-of-variables/",
+      "videoUrl": "https://player.vimeo.com/video/56764063?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Logistic growth of a fish population",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-3/logistic-growth-of-a-fish-population/",
+      "videoUrl": "https://player.vimeo.com/video/56764183?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding orthogonal trajectories",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-3/finding-orthogonal-trajectories/",
+      "videoUrl": "https://player.vimeo.com/video/56764247?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Logistic growth",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-3/logistic-growth/",
+      "videoUrl": "https://player.vimeo.com/video/56764320?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-4/",
+    "videos": [{
+      "name": "First-Order linear differential equations",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-4/first-order-linear-differential-equations/",
+      "videoUrl": "https://player.vimeo.com/video/56764373?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Solving a first order linear ODE with non-trivial leading coefficient",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-6/section-4/solving-a-first-order-linear-ode-with-non-trivial-leading-coefficient/",
+      "videoUrl": "https://player.vimeo.com/video/56764443?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 7",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-1/",
+    "videos": [{
+      "name": "Find area between two curves - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-1/find-area-between-two-curves-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/56764538?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find area between two curves",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-1/find-area-between-two-curves/",
+      "videoUrl": "https://player.vimeo.com/video/56764569?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Area between two curves",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-1/area-between-two-curves/",
+      "videoUrl": "https://player.vimeo.com/video/56764569?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Area between two intersecting curves",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-1/area-between-two-intersecting-curves/",
+      "videoUrl": "https://player.vimeo.com/video/56764623?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-2/",
+    "videos": [{
+      "name": "The disk method - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-2/the-disk-method-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/56764694?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The disk method",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-2/the-disk-method/",
+      "videoUrl": "https://player.vimeo.com/video/56764768?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The washer method",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-2/the-washer-method/",
+      "videoUrl": "https://player.vimeo.com/video/56764823?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The washer method - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-2/the-washer-method-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/56764880?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-3/",
+    "videos": [{
+      "name": "Volume by cylindrical shells - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-3/volume-by-cylindrical-shells-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/56764949?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Volume by cylindrical shells - bell curve",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-3/volume-by-cylindrical-shells-bell-curve/",
+      "videoUrl": "https://player.vimeo.com/video/56765027?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Volume by cylindrical shells - doughnut",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-3/volume-by-cylindrical-shells-doughnut/",
+      "videoUrl": "https://player.vimeo.com/video/56765113?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-4/",
+    "videos": [{
+      "name": "Arc length - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-4/arc-length-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/56765170?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Arc length parameter",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-4/arc-length-parameter/",
+      "videoUrl": "https://player.vimeo.com/video/56765266?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Area of a surface of revolution",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-4/area-of-a-surface-of-revolution/",
+      "videoUrl": "https://player.vimeo.com/video/56765346?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Parametric equations-surface area for surface of revolution - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-4/parametric-equations-surface-area-for-surface-of-revolution-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/56765406?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Parametric equations-surface area for surface of revolution",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-4/parametric-equations-surface-area-for-surface-of-revolution/",
+      "videoUrl": "https://player.vimeo.com/video/56765485?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-5/",
+    "videos": [{
+      "name": "Work done by a constant force - Lifting an object",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-5/work-done-by-a-constant-force-lifting-an-object/",
+      "videoUrl": "https://player.vimeo.com/video/56765697?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Work done by a variable force",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-5/work-done-by-a-variable-force/",
+      "videoUrl": "https://player.vimeo.com/video/56765767?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Application: Work done by a variable force - compressing a spring - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-5/application-work-done-by-a-variable-force-compressing-a-spring-a/",
+      "videoUrl": "https://player.vimeo.com/video/56765827?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Application: Work done by a variable force - compressing a spring - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-5/application-work-done-by-a-variable-force-compressing-a-spring-b/",
+      "videoUrl": "https://player.vimeo.com/video/56765873?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use vectors to find the work done by a force",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-5/use-vectors-to-find-the-work-done-by-a-force/",
+      "videoUrl": "https://player.vimeo.com/video/56765941?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-6/",
+    "videos": [{
+      "name": "Center of mass in a one-dimensional system",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-6/center-of-mass-in-a-one-dimensional-system/",
+      "videoUrl": "https://player.vimeo.com/video/56765998?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Center of mass in a two-dimensional system - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-6/center-of-mass-in-a-two-dimensional-system-a/",
+      "videoUrl": "https://player.vimeo.com/video/56766078?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Center of mass in a two-dimensional system - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-6/center-of-mass-in-a-two-dimensional-system-b/",
+      "videoUrl": "https://player.vimeo.com/video/56766030?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Problem on center of mass of a planar lamina",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-6/problem-on-center-of-mass-of-a-planar-lamina/",
+      "videoUrl": "https://player.vimeo.com/video/56766119?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The centroid of a plane region",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-6/the-centroid-of-a-plane-region/",
+      "videoUrl": "https://player.vimeo.com/video/56766195?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 7",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-7/",
+    "videos": [{
+      "name": "Introduction to fluid pressure and fluid force",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-7/introduction-to-fluid-pressure-and-fluid-force/",
+      "videoUrl": "https://player.vimeo.com/video/56766245?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Fluid force on a submerged sheet",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-7/section-7/fluid-force-on-a-submerged-sheet/",
+      "videoUrl": "https://player.vimeo.com/video/56766312?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 8",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-1/",
+    "videos": [{
+      "name": "Integrating a rational function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-1/integrating-a-rational-function/",
+      "videoUrl": "https://player.vimeo.com/video/56766380?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use substitution to find indefinite integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-1/use-substitution-to-find-indefinite-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/56766453?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use the general power rule to find indefinite integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-1/use-the-general-power-rule-to-find-indefinite-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/56766503?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Integrals of trigonometric functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-1/integrals-of-trigonometric-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56766570?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-2/",
+    "videos": [{
+      "name": "Integration by parts - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-2/integration-by-parts-a/",
+      "videoUrl": "https://player.vimeo.com/video/56766629?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Integration by parts - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-2/integration-by-parts-b/",
+      "videoUrl": "https://player.vimeo.com/video/56766691?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Integration by parts - integrand with a single term",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-2/integration-by-parts-integrand-with-a-single-term/",
+      "videoUrl": "https://player.vimeo.com/video/56766732?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Integration by parts - repeated use",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-2/integration-by-parts-repeated-use/",
+      "videoUrl": "https://player.vimeo.com/video/56766784?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-3/",
+    "videos": [{
+      "name": "Trigonometric integrals - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-3/trigonometric-integrals-a/",
+      "videoUrl": "https://player.vimeo.com/video/56766818?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Trigonometric integrals - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-3/trigonometric-integrals-b/",
+      "videoUrl": "https://player.vimeo.com/video/56766925?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Integrals of other trig functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-3/integrals-of-other-trig-functions/",
+      "videoUrl": "https://player.vimeo.com/video/56767033?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-4/",
+    "videos": [{
+      "name": "Trigonometric substitution",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-4/trigonometric-substitution/",
+      "videoUrl": "https://player.vimeo.com/video/56767073?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Trigonometric substitution - rational powers",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-4/trigonometric-substitution-rational-powers/",
+      "videoUrl": "https://player.vimeo.com/video/56767111?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Arc length",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-4/arc-length/",
+      "videoUrl": "https://player.vimeo.com/video/56767183?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-5/",
+    "videos": [{
+      "name": "Partial fractions decomposition",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-5/partial-fractions-decomposition/",
+      "videoUrl": "https://player.vimeo.com/video/56767246?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Partial fractions decomposition - distinct linear factors",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-5/partial-fractions-decomposition-distinct-linear-factors/",
+      "videoUrl": "https://player.vimeo.com/video/56767285?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Partial fractions decomposition - distinct linear and quadratic factors",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-5/partial-fractions-decomposition-distinct-linear-and-quadratic-factors/",
+      "videoUrl": "https://player.vimeo.com/video/56767322?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-6/",
+    "videos": [{
+      "name": "Proof - Substitution for Rational Functions of Sine and Cosine",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-6/proof-substitution-for-rational-functions-of-sine-and-cosine/",
+      "videoUrl": "https://player.vimeo.com/video/70409459?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Integrate: using the table of integrals - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-6/integrate-using-the-table-of-integrals-a/",
+      "videoUrl": "https://player.vimeo.com/video/56767366?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Integrate: using the table of integrals - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-6/integrate-using-the-table-of-integrals-b/",
+      "videoUrl": "https://player.vimeo.com/video/56767444?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use reduction formulas to find indefinite integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-6/use-reduction-formulas-to-find-indefinite-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/56767487?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 7",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-7/",
+    "videos": [{
+      "name": "Proof - The Extended Mean Value Theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-7/proof-the-extended-mean-value-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/70409494?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - L'Hôpital's Rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-7/proof-lhopitals-rule/",
+      "videoUrl": "https://player.vimeo.com/video/70409557?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Review of indeterminate forms",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-7/review-of-indeterminate-forms/",
+      "videoUrl": "https://player.vimeo.com/video/56767548?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "L'Hôpital's rule - Part I",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-7/lhopitals-rule-part-i/",
+      "videoUrl": "https://player.vimeo.com/video/56767615?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "L'Hôpital's rule - Part II",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-7/lhopitals-rule-part-ii/",
+      "videoUrl": "https://player.vimeo.com/video/56767666?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "L'Hopital's rule",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-7/lhopitals-rule/",
+      "videoUrl": "https://player.vimeo.com/video/56767713?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 8",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-8/",
+    "videos": [{
+      "name": "Evaluate improper integrals with infinite integrands",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-8/evaluate-improper-integrals-with-infinite-integrands/",
+      "videoUrl": "https://player.vimeo.com/video/56767768?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluate improper integrals with infinite limits of integration",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-8/evaluate-improper-integrals-with-infinite-limits-of-integration/",
+      "videoUrl": "https://player.vimeo.com/video/56767803?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Improper Integral with unbounded discontinuity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-8/improper-integral-with-unbounded-discontinuity/",
+      "videoUrl": "https://player.vimeo.com/video/56935951?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluate improper integrals with infinite integrands - II",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-8/section-8/evaluate-improper-integrals-with-infinite-integrands-ii/",
+      "videoUrl": "https://player.vimeo.com/video/56936042?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 9",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-1/",
+    "videos": [{
+      "name": "Proof - Absolute Value Theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-1/proof-absolute-value-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/71045578?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Bounded Monotonic Sequences",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-1/proof-bounded-monotonic-sequences/",
+      "videoUrl": "https://player.vimeo.com/video/71045625?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to sequences",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-1/introduction-to-sequences/",
+      "videoUrl": "https://player.vimeo.com/video/57965311?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Write the terms of a sequence",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-1/write-the-terms-of-a-sequence/",
+      "videoUrl": "https://player.vimeo.com/video/56936185?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Determine the convergence or divergence of sequences and find the limits of convergent sequences",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-1/determine-the-convergence-or-divergence-of-sequences-and-find-the-limits-of-convergent-sequences/",
+      "videoUrl": "https://player.vimeo.com/video/56936285?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the nth term of a sequence",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-1/find-the-nth-term-of-a-sequence/",
+      "videoUrl": "https://player.vimeo.com/video/56936503?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-2/",
+    "videos": [{
+      "name": "Proof - Convergence of a Geometric Series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-2/proof-convergence-of-a-geometric-series/",
+      "videoUrl": "https://player.vimeo.com/video/71045684?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Limit of the nth Term of a Convergent Series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-2/proof-limit-of-the-nth-term-of-a-convergent-series/",
+      "videoUrl": "https://player.vimeo.com/video/71045727?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding the sum of infinite geometric series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-2/finding-the-sum-of-infinite-geometric-series/",
+      "videoUrl": "https://player.vimeo.com/video/57965665?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use the nth-term test of divergence to show that series diverge",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-2/use-the-nth-term-test-of-divergence-to-show-that-series-diverge/",
+      "videoUrl": "https://player.vimeo.com/video/56936643?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-3/",
+    "videos": [{
+      "name": "Proof - The Integral Test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-3/proof-the-integral-test/",
+      "videoUrl": "https://player.vimeo.com/video/71045790?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Convergence of a p-Series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-3/proof-convergence-of-a-p-series/",
+      "videoUrl": "https://player.vimeo.com/video/71045852?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Define a p-series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-3/define-a-p-series/",
+      "videoUrl": "https://player.vimeo.com/video/56936747?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Determine the convergence or divergence of p-series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-3/determine-the-convergence-or-divergence-of-p-series/",
+      "videoUrl": "https://player.vimeo.com/video/56936821?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-4/",
+    "videos": [{
+      "name": "Proof - Direct Comparison Test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-4/proof-direct-comparison-test/",
+      "videoUrl": "https://player.vimeo.com/video/71045901?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Limit Comparison Test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-4/proof-limit-comparison-test/",
+      "videoUrl": "https://player.vimeo.com/video/71045954?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Direct comparison test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-4/direct-comparison-test/",
+      "videoUrl": "https://player.vimeo.com/video/56936948?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Problem on direct comparison test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-4/problem-on-direct-comparison-test/",
+      "videoUrl": "https://player.vimeo.com/video/56937042?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-5/",
+    "videos": [{
+      "name": "Proof - Alternating Series Test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-5/proof-alternating-series-test/",
+      "videoUrl": "https://player.vimeo.com/video/71046604?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Alternating Series Remainder",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-5/proof-alternating-series-remainder/",
+      "videoUrl": "https://player.vimeo.com/video/71046639?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Absolute Convergence",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-5/proof-absolute-convergence/",
+      "videoUrl": "https://player.vimeo.com/video/71046681?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Alternating series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-5/alternating-series/",
+      "videoUrl": "https://player.vimeo.com/video/56937171?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Problem on alternating series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-5/problem-on-alternating-series/",
+      "videoUrl": "https://player.vimeo.com/video/56937421?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-6/",
+    "videos": [{
+      "name": "Proof - Ratio Test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-6/proof-ratio-test/",
+      "videoUrl": "https://player.vimeo.com/video/71046708?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use the ratio test to determine the convergence or divergence of series - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-6/use-the-ratio-test-to-determine-the-convergence-or-divergence-of-series-a/",
+      "videoUrl": "https://player.vimeo.com/video/56937627?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use the ratio test to determine the convergence or divergence of series - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-6/use-the-ratio-test-to-determine-the-convergence-or-divergence-of-series-b/",
+      "videoUrl": "https://player.vimeo.com/video/56939455?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Root test - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-6/root-test-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/63159337?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Root test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-6/root-test/",
+      "videoUrl": "https://player.vimeo.com/video/56941378?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "A summary of tests of convergence",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-6/a-summary-of-tests-of-convergence/",
+      "videoUrl": "https://player.vimeo.com/video/56941863?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 7",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-7/",
+    "videos": [{
+      "name": "Proof - Taylor's Theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-7/proof-taylors-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/71046745?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to Taylor polynomials",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-7/introduction-to-taylor-polynomials/",
+      "videoUrl": "https://player.vimeo.com/video/56943240?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "A Taylor series example",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-7/a-taylor-series-example/",
+      "videoUrl": "https://player.vimeo.com/video/56943448?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Applications of Taylor polynomials - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-7/applications-of-taylor-polynomials-a/",
+      "videoUrl": "https://player.vimeo.com/video/56987459?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Applications of Taylor polynomials - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-7/applications-of-taylor-polynomials-b/",
+      "videoUrl": "https://player.vimeo.com/video/56987551?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 8",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-8/",
+    "videos": [{
+      "name": "Proof - Convergence of a Power Series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-8/proof-convergence-of-a-power-series/",
+      "videoUrl": "https://player.vimeo.com/video/150376132?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Calculate radius of convergence for power series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-8/calculate-radius-of-convergence-for-power-series/",
+      "videoUrl": "https://player.vimeo.com/video/56987621?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find interval of convergence using the ratio test",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-8/find-interval-of-convergence-using-the-ratio-test/",
+      "videoUrl": "https://player.vimeo.com/video/56989064?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 9",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-9/",
+    "videos": [{
+      "name": "Representation of functions by power series - geometric series - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-9/representation-of-functions-by-power-series-geometric-series-a/",
+      "videoUrl": "https://player.vimeo.com/video/56989124?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Representation of functions by power series - geometric series - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-9/representation-of-functions-by-power-series-geometric-series-b/",
+      "videoUrl": "https://player.vimeo.com/video/56989948?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Representation of functions by power series - antidifferentiation",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-9/representation-of-functions-by-power-series-antidifferentiation/",
+      "videoUrl": "https://player.vimeo.com/video/56990887?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 10",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-10/",
+    "videos": [{
+      "name": "Proof - The Form of a Convergent Power Series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-10/proof-the-form-of-a-convergent-power-series/",
+      "videoUrl": "https://player.vimeo.com/video/71046800?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Convergence of Taylor Series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-10/proof-convergence-of-taylor-series/",
+      "videoUrl": "https://player.vimeo.com/video/71046838?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Taylor and Maclaurin series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-10/taylor-and-maclaurin-series/",
+      "videoUrl": "https://player.vimeo.com/video/56990990?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to Taylor series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-10/introduction-to-taylor-series/",
+      "videoUrl": "https://player.vimeo.com/video/56991045?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Maclaurin series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-10/maclaurin-series/",
+      "videoUrl": "https://player.vimeo.com/video/56991165?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the Maclaurin series",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-10/find-the-maclaurin-series/",
+      "videoUrl": "https://player.vimeo.com/video/57010293?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Maclaurin Series - Why the functions equal their Maclaurin series on the whole real line",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-9/section-10/maclaurin-series-why-the-functions-equal-theie-maclaurin-series-on-the-whole-real-line/",
+      "videoUrl": "https://player.vimeo.com/video/57021136?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 10",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-1/",
+    "videos": [{
+      "name": "Write equations of parabolas",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-1/write-equations-of-parabolas/",
+      "videoUrl": "https://player.vimeo.com/video/57021206?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Write equations of ellipses",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-1/write-equations-of-ellipses/",
+      "videoUrl": "https://player.vimeo.com/video/57021503?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Ellipse centered at the origin",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-1/ellipse-centered-at-the-origin/",
+      "videoUrl": "https://player.vimeo.com/video/57021569?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graphing the hyperbola",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-1/graphing-the-hyperbola/",
+      "videoUrl": "https://player.vimeo.com/video/57065267?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-2/",
+    "videos": [{
+      "name": "Sketch the curve that is represented by a set of parametric equations",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-2/sketch-the-curve-that-is-represented-by-a-set-of-parametric-equations/",
+      "videoUrl": "https://player.vimeo.com/video/57065351?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Eliminate the parameter of a pair of parametric equations, by solving for the parameter and substituting",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-2/eliminate-the-parameter-of-a-pair-of-parametric-equations-by-solving-for-the-parameter-and-substituting/",
+      "videoUrl": "https://player.vimeo.com/video/57067358?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding parametric equations for a graph",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-2/finding-parametric-equations-for-a-graph/",
+      "videoUrl": "https://player.vimeo.com/video/57067661?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-3/",
+    "videos": [{
+      "name": "Proof - Parametric Form of the Derivative",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-3/proof-parametric-form-of-the-derivative/",
+      "videoUrl": "https://player.vimeo.com/video/70407843?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Parametric equations and calculus - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-3/parametric-equations-and-calculus-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/57067711?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Parametric equations - arc length - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-3/parametric-equations-arc-length-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/57068120?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-4/",
+    "videos": [{
+      "name": "Convert points from rectangular to polar and vice-versa",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-4/convert-points-from-rectangular-to-polar-and-vice-versa/",
+      "videoUrl": "https://player.vimeo.com/video/57068164?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Convert equations from rectangular to polar and vice versa",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-4/convert-equations-from-rectangular-to-polar-and-vice-versa/",
+      "videoUrl": "https://player.vimeo.com/video/57068265?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graphing polar equations with a calculator",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-4/graphing-polar-equations-with-a-calculator/",
+      "videoUrl": "https://player.vimeo.com/video/57068328?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graph polar equations by point plotting",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-4/graph-polar-equations-by-point-plotting/",
+      "videoUrl": "https://player.vimeo.com/video/57068453?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-5/",
+    "videos": [{
+      "name": "Recognize special polar graphs",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-5/recognize-special-polar-graphs/",
+      "videoUrl": "https://player.vimeo.com/video/57068596?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Area of a curve given in polar coordinates",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-5/area-of-a-curve-given-in-polar-coordinates/",
+      "videoUrl": "https://player.vimeo.com/video/57069094?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Arc length of a curve given in polar coordinates",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-5/arc-length-of-a-curve-given-in-polar-coordinates/",
+      "videoUrl": "https://player.vimeo.com/video/57069306?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Surface area of surfaces of revolution given in polar coordinates",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-5/surface-area-of-surfaces-of-revolution-given-in-polar-coordinates/",
+      "videoUrl": "https://player.vimeo.com/video/57069376?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-6/",
+    "videos": [{
+      "name": "Proof - Classification of Conics by Eccentricity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-6/proof-classification-of-conics-by-eccentricity/",
+      "videoUrl": "https://player.vimeo.com/video/70407903?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Polar Equations of Conics",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-6/proof-polar-equations-of-conics/",
+      "videoUrl": "https://player.vimeo.com/video/70407951?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Conic sections in polar coordinates",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-10/section-6/conic-sections-in-polar-coordinates/",
+      "videoUrl": "https://player.vimeo.com/video/57069441?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 11",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-1/",
+    "videos": [{
+      "name": "Proof - Properties of Vector Operations",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-1/proof-properties-of-vector-operations/",
+      "videoUrl": "https://player.vimeo.com/video/71046874?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Length of a Scalar Multiple",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-1/proof-length-of-a-scalar-multiple/",
+      "videoUrl": "https://player.vimeo.com/video/71046918?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Unit Vector in the Direction of v",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-1/proof-unit-vector-in-the-direction-of-v/",
+      "videoUrl": "https://player.vimeo.com/video/71046960?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Vectors in the plane",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-1/vectors-in-the-plane/",
+      "videoUrl": "https://player.vimeo.com/video/57069522?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Vector length",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-1/vector-length/",
+      "videoUrl": "https://player.vimeo.com/video/57073459?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Unit normal vector",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-1/unit-normal-vector/",
+      "videoUrl": "https://player.vimeo.com/video/57073518?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Write vectors as linear combinations of unit vectors",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-1/write-vectors-as-linear-combinations-of-unit-vectors/",
+      "videoUrl": "https://player.vimeo.com/video/57073912?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/",
+    "videos": [{
+      "name": "Three-dimensional coordinate system - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/three-dimensional-coordinate-system-a/",
+      "videoUrl": "https://player.vimeo.com/video/57143944?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Three-dimensional coordinate system - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/three-dimensional-coordinate-system-b/",
+      "videoUrl": "https://player.vimeo.com/video/63117127?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Three-dimensional coordinate system - C",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/three-dimensional-coordinate-system-c/",
+      "videoUrl": "https://player.vimeo.com/video/63117182?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Plot points in space",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/plot-points-in-space/",
+      "videoUrl": "https://player.vimeo.com/video/57144493?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find distances between points in space and find midpoints of line segments in space - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/find-distances-between-points-in-space-and-find-midpoints-of-line-segments-in-space-a/",
+      "videoUrl": "https://player.vimeo.com/video/57144566?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find distances between points in space and find midpoints of line segments in space - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/find-distances-between-points-in-space-and-find-midpoints-of-line-segments-in-space-b/",
+      "videoUrl": "https://player.vimeo.com/video/57144627?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Write the standard forms of the equations of spheres and find the centers and radii of spheres - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/write-the-standard-forms-of-the-equations-of-spheres-and-find-the-centers-and-radii-of-spheres-a/",
+      "videoUrl": "https://player.vimeo.com/video/57144740?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Write the standard forms of the equations of spheres and find the centers and radii of spheres - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/write-the-standard-forms-of-the-equations-of-spheres-and-find-the-centers-and-radii-of-spheres-b/",
+      "videoUrl": "https://player.vimeo.com/video/57144805?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Write the component forms of vectors",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/write-the-component-forms-of-vectors/",
+      "videoUrl": "https://player.vimeo.com/video/57144878?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Parallel and orthogonal vectors",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-2/parallel-and-orthogonal-vectors/",
+      "videoUrl": "https://player.vimeo.com/video/57145014?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-3/",
+    "videos": [{
+      "name": "Proof - Properties of the Dot Product",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-3/proof-properties-of-the-dot-product/",
+      "videoUrl": "https://player.vimeo.com/video/71047007?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Angle Between Two Vectors",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-3/proof-angle-between-two-vectors/",
+      "videoUrl": "https://player.vimeo.com/video/71047048?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The dot product",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-3/the-dot-product/",
+      "videoUrl": "https://player.vimeo.com/video/57145075?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the angle between two vectors and determine whether two vectors are orthogonal - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-3/find-the-angle-between-two-vectors-and-determine-whether-two-vectors-are-orthogonal-a/",
+      "videoUrl": "https://player.vimeo.com/video/57145168?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the angle between two vectors and determine whether two vectors are orthogonal - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-3/find-the-angle-between-two-vectors-and-determine-whether-two-vectors-are-orthogonal-b/",
+      "videoUrl": "https://player.vimeo.com/video/57145224?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the direction angles of vectors",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-3/find-the-direction-angles-of-vectors/",
+      "videoUrl": "https://player.vimeo.com/video/57145295?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Scalar projection of a vector - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-3/scalar-projection-of-a-vector-a/",
+      "videoUrl": "https://player.vimeo.com/video/57145344?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Scalar projection of a vector - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-3/scalar-projection-of-a-vector-b/",
+      "videoUrl": "https://player.vimeo.com/video/57145399?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Scalar projection of a vector - C",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-3/scalar-projection-of-a-vector-c/",
+      "videoUrl": "https://player.vimeo.com/video/57145429?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/",
+    "videos": [{
+      "name": "Proof - Algebraic Properties of the Cross Product",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/proof-algebraic-properties-of-the-cross-product/",
+      "videoUrl": "https://player.vimeo.com/video/71047089?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Geometric Properties of the Cross Product",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/proof-geometric-properties-of-the-cross-product/",
+      "videoUrl": "https://player.vimeo.com/video/71047117?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Geometric Property of the Triple Scalar Product",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/proof-geometric-property-of-the-triple-scalar-product/",
+      "videoUrl": "https://player.vimeo.com/video/71047149?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding the Cross Product",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/finding-the-cross-product/",
+      "videoUrl": "https://player.vimeo.com/video/57145670?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Definition of cross product - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/definition-of-cross-product-a/",
+      "videoUrl": "https://player.vimeo.com/video/57145773?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Definition of Cross Product - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/definition-of-cross-product-b/",
+      "videoUrl": "https://player.vimeo.com/video/57145887?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The cross product",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/the-cross-product/",
+      "videoUrl": "https://player.vimeo.com/video/57145938?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Calculating torque using cross product - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/calculating-torque-using-cross-product-a/",
+      "videoUrl": "https://player.vimeo.com/video/57146020?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Calculating torque using cross product - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/calculating-torque-using-cross-product-b/",
+      "videoUrl": "https://player.vimeo.com/video/57146090?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The triple scalar product",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-4/the-triple-scalar-product/",
+      "videoUrl": "https://player.vimeo.com/video/57146187?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/",
+    "videos": [{
+      "name": "Proof - Distance Between a Point and a Line in Space",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/proof-distance-between-a-point-and-a-line-in-space/",
+      "videoUrl": "https://player.vimeo.com/video/71047193?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Parametric equations of lines in space - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/parametric-equations-of-lines-in-space-a/",
+      "videoUrl": "https://player.vimeo.com/video/57146422?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Parametric equations of lines in space - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/parametric-equations-of-lines-in-space-b/",
+      "videoUrl": "https://player.vimeo.com/video/57146500?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Parametric equations of a line through a point and parallel to a Line",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/parametric-equations-of-a-line-through-a-point-and-parallel-to-a-line/",
+      "videoUrl": "https://player.vimeo.com/video/57146601?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Vectors - parametric and symmetric equations for the line",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/vectors-parametric-and-symmetric-equations-for-the-line/",
+      "videoUrl": "https://player.vimeo.com/video/57146777?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Parametric equations of a line through two points",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/parametric-equations-of-a-line-through-two-points/",
+      "videoUrl": "https://player.vimeo.com/video/57146834?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Equations of planes - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/equations-of-planes-a/",
+      "videoUrl": "https://player.vimeo.com/video/57146952?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Equations of planes - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/equations-of-planes-b/",
+      "videoUrl": "https://player.vimeo.com/video/57147059?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the equation of a plane in space",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/find-the-equation-of-a-plane-in-space/",
+      "videoUrl": "https://player.vimeo.com/video/57147904?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Sketch planes in space",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/sketch-planes-in-space/",
+      "videoUrl": "https://player.vimeo.com/video/57147979?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Draw planes in space with different numbers of intercepts",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/draw-planes-in-space-with-different-numbers-of-intercepts/",
+      "videoUrl": "https://player.vimeo.com/video/57148177?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Distance between a point and a plane - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/distance-between-a-point-and-a-plane-a/",
+      "videoUrl": "https://player.vimeo.com/video/57148237?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Distance between a point and a plane - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/distance-between-a-point-and-a-plane-b/",
+      "videoUrl": "https://player.vimeo.com/video/57148345?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Distance between a point and a plane - C",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/distance-between-a-point-and-a-plane-c/",
+      "videoUrl": "https://player.vimeo.com/video/57148450?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The distance between a point and a line",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-5/the-distance-between-a-point-and-a-line/",
+      "videoUrl": "https://player.vimeo.com/video/57148514?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-6/",
+    "videos": [{
+      "name": "Cylinders",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-6/cylinders/",
+      "videoUrl": "https://player.vimeo.com/video/57148568?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Classify quadratic surfaces in space - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-6/classify-quadratic-surfaces-in-space-a/",
+      "videoUrl": "https://player.vimeo.com/video/57148641?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Classify quadratic surfaces in space - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-6/classify-quadratic-surfaces-in-space-b/",
+      "videoUrl": "https://player.vimeo.com/video/57148744?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Sketch the quadric surface",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-6/sketch-the-quadric-surface/",
+      "videoUrl": "https://player.vimeo.com/video/57148789?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 7",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-7/",
+    "videos": [{
+      "name": "Cylindrical coordinates",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-7/cylindrical-coordinates/",
+      "videoUrl": "https://player.vimeo.com/video/57148923?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Rectangular-to-spherical conversion",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-11/section-7/rectangular-to-spherical-conversion/",
+      "videoUrl": "https://player.vimeo.com/video/57148986?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 12",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-1/",
+    "videos": [{
+      "name": "Space curves and vector-valued functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-1/space-curves-and-vector-valued-functions/",
+      "videoUrl": "https://player.vimeo.com/video/57149026?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find a vector-valued function to represent the graph - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-1/find-a-vector-valued-function-to-represent-the-graph-a/",
+      "videoUrl": "https://player.vimeo.com/video/57149074?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find a vector-valued function to represent the graph - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-1/find-a-vector-valued-function-to-represent-the-graph-b/",
+      "videoUrl": "https://player.vimeo.com/video/57149138?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Continuity of vector-valued functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-1/continuity-of-vector-valued-functions/",
+      "videoUrl": "https://player.vimeo.com/video/57149227?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-2/",
+    "videos": [{
+      "name": "Proof - Properties of the Derivative",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-2/proof-properties-of-the-derivative/",
+      "videoUrl": "https://player.vimeo.com/video/71047222?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Differentiation of vector-valued functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-2/differentiation-of-vector-valued-functions/",
+      "videoUrl": "https://player.vimeo.com/video/57149289?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding the derivative of a vector-valued function - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-2/finding-the-derivative-of-a-vector-valued-function-a/",
+      "videoUrl": "https://player.vimeo.com/video/57149360?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding the derivative of a vector-valued function - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-2/finding-the-derivative-of-a-vector-valued-function-b/",
+      "videoUrl": "https://player.vimeo.com/video/57167660?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Differention rules of vector-valued functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-2/differention-rules-of-vector-valued-functions/",
+      "videoUrl": "https://player.vimeo.com/video/57218924?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Integration of vector-valued functions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-2/integration-of-vector-valued-functions/",
+      "videoUrl": "https://player.vimeo.com/video/57228037?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Integrating a vector-valued function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-2/integrating-a-vector-valued-function/",
+      "videoUrl": "https://player.vimeo.com/video/57228113?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-3/",
+    "videos": [{
+      "name": "Finding velocity and acceleration along a plane curve",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-3/finding-velocity-and-acceleration-along-a-plane-curve/",
+      "videoUrl": "https://player.vimeo.com/video/57228169?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-4/",
+    "videos": [{
+      "name": "Proof - Acceleration Vector",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-4/proof-acceleration-vector/",
+      "videoUrl": "https://player.vimeo.com/video/71047255?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Tangential and Normal Components of Acceleration",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-4/proof-tangential-and-normal-components-of-acceleration/",
+      "videoUrl": "https://player.vimeo.com/video/71047294?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Tangential and normal vectors - An overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-4/tangential-and-normal-vectors-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/57228232?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Tangent vectors and normal vectors - Velocity and acceleration - An overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-4/tangent-vectors-and-normal-vectors-velocity-and-acceleration-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/57228322?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding tangential component of acceleration - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-4/finding-tangential-component-of-acceleration-a/",
+      "videoUrl": "https://player.vimeo.com/video/57228378?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding tangential component of acceleration - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-4/finding-tangential-component-of-acceleration-b/",
+      "videoUrl": "https://player.vimeo.com/video/57228424?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding normal component of acceleration - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-4/finding-normal-component-of-acceleration-a/",
+      "videoUrl": "https://player.vimeo.com/video/57228495?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding normal component of acceleration - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-4/finding-normal-component-of-acceleration-b/",
+      "videoUrl": "https://player.vimeo.com/video/57228562?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-5/",
+    "videos": [{
+      "name": "Proof - Properties of the Derivative",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-5/proof-properties-of-the-derivative/",
+      "videoUrl": "https://player.vimeo.com/video/71047222?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Curvature in Rectangular Coordinates",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-5/proof-curvature-in-rectangular-coordinates/",
+      "videoUrl": "https://player.vimeo.com/video/71047340?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Acceleration, Speed, and Curvature",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-5/proof-acceleration-speed-and-curvature/",
+      "videoUrl": "https://player.vimeo.com/video/75960581?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Arc length",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-5/arc-length/",
+      "videoUrl": "https://player.vimeo.com/video/57228681?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Arc length - Part of calculation",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-5/arc-length-part-of-calculation/",
+      "videoUrl": "https://player.vimeo.com/video/57228870?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Formula for curvature",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-12/section-5/formula-for-curvature/",
+      "videoUrl": "https://player.vimeo.com/video/57228936?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 13",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-1/",
+    "videos": [{
+      "name": "Functions of several variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-1/functions-of-several-variables/",
+      "videoUrl": "https://player.vimeo.com/video/57229002?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the domains and ranges of functions of several variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-1/find-the-domains-and-ranges-of-functions-of-several-variables/",
+      "videoUrl": "https://player.vimeo.com/video/57229055?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graphing a multivariable function - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-1/graphing-a-multivariable-function-a/",
+      "videoUrl": "https://player.vimeo.com/video/57229196?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Graphing a multivariable function - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-1/graphing-a-multivariable-function-b/",
+      "videoUrl": "https://player.vimeo.com/video/57229253?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Read contour maps and sketch level curves of functions of two variables - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-1/read-contour-maps-and-sketch-level-curves-of-functions-of-two-variables-a/",
+      "videoUrl": "https://player.vimeo.com/video/57229315?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Read contour maps and sketch level curves of functions of two variables - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-1/read-contour-maps-and-sketch-level-curves-of-functions-of-two-variables-b/",
+      "videoUrl": "https://player.vimeo.com/video/57229391?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Multivariable functions: Use a Cobb-Douglas production model",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-1/multivariable-functions-use-a-cobb-douglas-production-model/",
+      "videoUrl": "https://player.vimeo.com/video/57229437?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-2/",
+    "videos": [{
+      "name": "Determine limit of function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-2/determine-limit-of-function/",
+      "videoUrl": "https://player.vimeo.com/video/56634050?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Limit of a function of two variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-2/limit-of-a-function-of-two-variables/",
+      "videoUrl": "https://player.vimeo.com/video/57229490?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "A formal definition of a limit",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-2/a-formal-definition-of-a-limit/",
+      "videoUrl": "https://player.vimeo.com/video/57229546?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Show that limit does not exist",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-2/show-that-limit-does-not-exist/",
+      "videoUrl": "https://player.vimeo.com/video/57229608?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Testing for continuity",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-2/testing-for-continuity/",
+      "videoUrl": "https://player.vimeo.com/video/57229696?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Determine continuity of function",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-2/determine-continuity-of-function/",
+      "videoUrl": "https://player.vimeo.com/video/57229746?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-3/",
+    "videos": [{
+      "name": "Evaluating partial derivatives at specific points",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-3/evaluating-partial-derivatives-at-specific-points/",
+      "videoUrl": "https://player.vimeo.com/video/57229811?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the first partial derivatives of functions of two variables - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-3/find-the-first-partial-derivatives-of-functions-of-two-variables-a/",
+      "videoUrl": "https://player.vimeo.com/video/57229893?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the first partial derivatives of functions of two variables - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-3/find-the-first-partial-derivatives-of-functions-of-two-variables-b/",
+      "videoUrl": "https://player.vimeo.com/video/57229893?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the slopes of surfaces in the x- and y-directions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-3/find-the-slopes-of-surfaces-in-the-x-and-y-directions/",
+      "videoUrl": "https://player.vimeo.com/video/57230013?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the partial derivatives of functions of several variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-3/find-the-partial-derivatives-of-functions-of-several-variables/",
+      "videoUrl": "https://player.vimeo.com/video/57230058?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Second-order partial derivatives",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-3/second-order-partial-derivatives/",
+      "videoUrl": "https://player.vimeo.com/video/57230107?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Higher partial derivatives",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-3/higher-partial-derivatives/",
+      "videoUrl": "https://player.vimeo.com/video/57235516?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-4/",
+    "videos": [{
+      "name": "Proof - Sufficient Condition for Differentiability",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-4/proof-sufficient-condition-for-differentiability/",
+      "videoUrl": "https://player.vimeo.com/video/71047385?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Differentiability Implies Continuity 2",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-4/proof-differentiability-implies-continuity-2/",
+      "videoUrl": "https://player.vimeo.com/video/71047421?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Understanding the differentials",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-4/understanding-the-differentials/",
+      "videoUrl": "https://player.vimeo.com/video/57235582?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Approximation by differentials",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-4/approximation-by-differentials/",
+      "videoUrl": "https://player.vimeo.com/video/57235630?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "The notion of differentiable",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-4/the-notion-of-differentiable/",
+      "videoUrl": "https://player.vimeo.com/video/57235677?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-5/",
+    "videos": [{
+      "name": "Proof - Chain Rule: One Independent Variable",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-5/proof-chain-rule-one-independent-variable/",
+      "videoUrl": "https://player.vimeo.com/video/71047450?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Chain Rule: Two Independent Variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-5/proof-chain-rule-two-independent-variables/",
+      "videoUrl": "https://player.vimeo.com/video/71047484?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Chain rule with one independent variable",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-5/chain-rule-with-one-independent-variable/",
+      "videoUrl": "https://player.vimeo.com/video/57235762?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find derivatives implicitly",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-5/find-derivatives-implicitly/",
+      "videoUrl": "https://player.vimeo.com/video/57235806?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Partial derivatives",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-5/partial-derivatives/",
+      "videoUrl": "https://player.vimeo.com/video/57235834?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-6/",
+    "videos": [{
+      "name": "Proof - Directional Derivative",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-6/proof-directional-derivative/",
+      "videoUrl": "https://player.vimeo.com/video/71047516?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Properties of the Gradient",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-6/proof-properties-of-the-gradient/",
+      "videoUrl": "https://player.vimeo.com/video/71047547?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find a directional derivative",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-6/find-a-directional-derivative/",
+      "videoUrl": "https://player.vimeo.com/video/57235887?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to directional derivatives and gradients",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-6/introduction-to-directional-derivatives-and-gradients/",
+      "videoUrl": "https://player.vimeo.com/video/57235972?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to gradients",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-6/introduction-to-gradients/",
+      "videoUrl": "https://player.vimeo.com/video/57236025?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 7",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-7/",
+    "videos": [{
+      "name": "Find the tangent plane",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-7/find-the-tangent-plane/",
+      "videoUrl": "https://player.vimeo.com/video/57236098?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Tangent planes and normal lines",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-7/tangent-planes-and-normal-lines/",
+      "videoUrl": "https://player.vimeo.com/video/57236147?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the parameterization of the line tangent to the curve of intersection of surfaces",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-7/find-the-parameterization-of-the-line-tangent-to-the-curve-of-intersection-of-surfaces/",
+      "videoUrl": "https://player.vimeo.com/video/57236188?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 8",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-8/",
+    "videos": [{
+      "name": "Find the relative and absolute extrema",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-8/find-the-relative-and-absolute-extrema/",
+      "videoUrl": "https://player.vimeo.com/video/57236240?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Understand the relative extrema of functions of two variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-8/understand-the-relative-extrema-of-functions-of-two-variables/",
+      "videoUrl": "https://player.vimeo.com/video/57236298?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use the second-partials test to find the relative extrema of functions of two variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-8/use-the-second-partials-test-to-find-the-relative-extrema-of-functions-of-two-variables/",
+      "videoUrl": "https://player.vimeo.com/video/57236370?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Extrema on a closed interval",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-8/extrema-on-a-closed-interval/",
+      "videoUrl": "https://player.vimeo.com/video/57236443?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 9",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-9/",
+    "videos": [{
+      "name": "Proof - Least Squares Regression Line",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-9/proof-least-squares-regression-line/",
+      "videoUrl": "https://player.vimeo.com/video/71047578?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Optimization - Finding maximum volume - Setup",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-9/optimization-finding-maximum-volume-set-up/",
+      "videoUrl": "https://player.vimeo.com/video/57236541?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Least squares regression",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-9/least-squares-regression/",
+      "videoUrl": "https://player.vimeo.com/video/57237836?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the least squares regression lines for data - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-9/find-the-least-squares-regression-lines-for-data-a/",
+      "videoUrl": "https://player.vimeo.com/video/57237896?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the least squares regression lines for data - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-9/find-the-least-squares-regression-lines-for-data-b/",
+      "videoUrl": "https://player.vimeo.com/video/57237928?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 10",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-10/",
+    "videos": [{
+      "name": "Proof - Lagrange's Theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-10/proof-lagranges-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/71047624?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to Lagrange multipliers",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-10/introduction-to-lagrange-multipliers/",
+      "videoUrl": "https://player.vimeo.com/video/57238327?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the maximum values of function using Lagrange multipliers - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-10/find-the-maximum-values-of-function-using-lagrange-multipliers-a/",
+      "videoUrl": "https://player.vimeo.com/video/57238383?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the maximum values of function using Lagrange multipliers - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-10/find-the-maximum-values-of-function-using-lagrange-multipliers-b/",
+      "videoUrl": "https://player.vimeo.com/video/57238436?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Lagrange multipliers",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-10/lagrange-multipliers/",
+      "videoUrl": "https://player.vimeo.com/video/57238488?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use Lagrange multipliers with two constraints to find extrema of functions of several variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-13/section-10/use-lagrange-multipliers-with-two-constraints-to-find-extrema-of-functions-of-several-variables/",
+      "videoUrl": "https://player.vimeo.com/video/57238543?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 14",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-1/",
+    "videos": [{
+      "name": "Iterated integral in two variables",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-1/iterated-integral-in-two-variables/",
+      "videoUrl": "https://player.vimeo.com/video/57238585?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use double integrals to find the areas of regions - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-1/use-double-integrals-to-find-the-areas-of-regions-a/",
+      "videoUrl": "https://player.vimeo.com/video/57238631?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use double integrals to find the areas of regions - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-1/use-double-integrals-to-find-the-areas-of-regions-b/",
+      "videoUrl": "https://player.vimeo.com/video/57238953?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Comparing different orders of integration - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-1/comparing-different-orders-of-integration-a/",
+      "videoUrl": "https://player.vimeo.com/video/57239002?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Comparing different orders of integration - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-1/comparing-different-orders-of-integration/",
+      "videoUrl": "https://player.vimeo.com/video/57239101?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/",
+    "videos": [{
+      "name": "Volumes and double integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/volumes-and-double-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/57239158?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Properties of double integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/properties-of-double-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/57239214?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use double integrals to find the volumes of solids - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/use-double-integrals-to-find-the-volumes-of-solids-a/",
+      "videoUrl": "https://player.vimeo.com/video/57239271?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use double integrals to find the volumes of solids - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/use-double-integrals-to-find-the-volumes-of-solids-b/",
+      "videoUrl": "https://player.vimeo.com/video/57239302?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Using Fubini's theorem and double integrals to find volume - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/using-fubinis-theorem-and-double-integrals-to-find-volume-a/",
+      "videoUrl": "https://player.vimeo.com/video/57239340?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Using Fubini's theorem and double integrals to find volume - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/using-fubinis-theorem-and-double-integrals-to-find-volume-b/",
+      "videoUrl": "https://player.vimeo.com/video/57239660?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Calculate double integrals - Fubini's theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/calculate-double-integrals-fubinis-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/57239817?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Calculating a double integral - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/calculating-a-double-integral-a/",
+      "videoUrl": "https://player.vimeo.com/video/57239898?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Calculating a double integral - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/calculating-a-double-integral-b/",
+      "videoUrl": "https://player.vimeo.com/video/57239935?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Estimate volume of the solid that lies above the square and below the elliptic paraboloid - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/estimate-volume-of-the-solid-that-lies-above-the-square-and-below-the-elliptic-paraboloid-a/",
+      "videoUrl": "https://player.vimeo.com/video/57240053?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Estimate volume of the solid that lies above the square and below the elliptic paraboloid - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-2/estimate-volume-of-the-solid-that-lies-above-the-square-and-below-the-elliptic-paraboloid-b/",
+      "videoUrl": "https://player.vimeo.com/video/57240094?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-3/",
+    "videos": [{
+      "name": "Change to polar coordinates in a double integral",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-3/change-to-polar-coordinates-in-a-double-integral/",
+      "videoUrl": "https://player.vimeo.com/video/57240145?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluate double integral usin polar coordinate - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-3/evaluate-double-integral-usin-polar-coordinate-a/",
+      "videoUrl": "https://player.vimeo.com/video/57240201?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Evaluate double integral usin polar coordinate - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-3/evaluate-double-integral-usin-polar-coordinate-b/",
+      "videoUrl": "https://player.vimeo.com/video/57240238?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Change of variables: polar coordinates",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-3/change-of-variables-polar-coordinates/",
+      "videoUrl": "https://player.vimeo.com/video/57240273?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-4/",
+    "videos": [{
+      "name": "Finding the center of mass",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-4/finding-the-center-of-mass/",
+      "videoUrl": "https://player.vimeo.com/video/57240321?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Moments and center of mass of a variable density planer lamina",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-4/moments-and-center-of-mass-of-a-variable-density-planer-lamina/",
+      "videoUrl": "https://player.vimeo.com/video/57240384?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-5/",
+    "videos": [{
+      "name": "Definition of surface area",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-5/definition-of-surface-area/",
+      "videoUrl": "https://player.vimeo.com/video/57240585?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Surface area of a plane region",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-5/surface-area-of-a-plane-region/",
+      "videoUrl": "https://player.vimeo.com/video/57241211?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Find the surface area of the paraboloid",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-5/find-the-surface-area-of-the-paraboloid/",
+      "videoUrl": "https://player.vimeo.com/video/57241253?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-6/",
+    "videos": [{
+      "name": "Triple integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-6/triple-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/57241597?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Triple integrals: find the volume - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-6/triple-integrals-find-the-volume-a/",
+      "videoUrl": "https://player.vimeo.com/video/57241800?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Triple integrals: find the volume - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-6/triple-integrals-find-the-volume-b/",
+      "videoUrl": "https://player.vimeo.com/video/57627293?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 7",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-7/",
+    "videos": [{
+      "name": "Triple integrals in cylindrical coordinates",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-7/triple-integrals-in-cylindrical-coordinates/",
+      "videoUrl": "https://player.vimeo.com/video/57627593?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Triple integrals in spherical coordinates",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-7/triple-integrals-in-spherical-coordinates/",
+      "videoUrl": "https://player.vimeo.com/video/57627669?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding the center of mass of a solid region - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-7/finding-the-center-of-mass-of-a-solid-region-a/",
+      "videoUrl": "https://player.vimeo.com/video/57627801?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding the center of mass of a solid region - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-7/finding-the-center-of-mass-of-a-solid-region-b/",
+      "videoUrl": "https://player.vimeo.com/video/57628151?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 8",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-8/",
+    "videos": [{
+      "name": "Proof - Change of Variables for Double Integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-8/proof-change-of-variables-for-double-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/70407987?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Understand the concept of a Jacobian",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-8/understand-the-concept-of-a-jacobian/",
+      "videoUrl": "https://player.vimeo.com/video/57628211?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Finding a change of variables to simplify a region",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-14/section-8/finding-a-change-of-variables-to-simplify-a-region/",
+      "videoUrl": "https://player.vimeo.com/video/57628272?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 15",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-1/",
+    "videos": [{
+      "name": "Proof - Test for conservative vector field in the plane",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-1/proof-test-for-conservative-vector-field-in-the-plane/",
+      "videoUrl": "https://player.vimeo.com/video/70407295?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Vector fields - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-1/vector-fields-a/",
+      "videoUrl": "https://player.vimeo.com/video/57628342?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Vector fields - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-1/vector-fields-b/",
+      "videoUrl": "https://player.vimeo.com/video/57628436?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Problem on vector field - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-1/problem-on-vector-field-a/",
+      "videoUrl": "https://player.vimeo.com/video/57628503?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Problem on vector field - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-1/problem-on-vector-field-b/",
+      "videoUrl": "https://player.vimeo.com/video/57628558?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Fundamental theorem for line integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-1/fundamental-theorem-for-line-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/57629480?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Compute the potential function of a conservative vector field",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-1/compute-the-potential-function-of-a-conservative-vector-field/",
+      "videoUrl": "https://player.vimeo.com/video/57629540?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Curl",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-1/curl/",
+      "videoUrl": "https://player.vimeo.com/video/57629595?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Divergence",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-1/divergence/",
+      "videoUrl": "https://player.vimeo.com/video/57629663?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-2/",
+    "videos": [{
+      "name": "Line integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-2/line-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/57629712?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Use line integral to calculate work",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-2/use-line-integral-to-calculate-work/",
+      "videoUrl": "https://player.vimeo.com/video/57629849?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-3/",
+    "videos": [{
+      "name": "Proof - Fundamental theorem of line integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-3/proof-fundamental-theorem-of-line-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/70407336?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Proof - Independence of path and conservative vector fields",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-3/proof-independence-of-path-and-conservative-vector-fields/",
+      "videoUrl": "https://player.vimeo.com/video/70407393?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Line integral of a conservative vector field",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-3/line-integral-of-a-conservative-vector-field/",
+      "videoUrl": "https://player.vimeo.com/video/57629942?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Independence of path",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-3/independence-of-path/",
+      "videoUrl": "https://player.vimeo.com/video/57630195?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-4/",
+    "videos": [{
+      "name": "Proof - Green's theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-4/proof-greens-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/70407443?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Green's theorem - an overview",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-4/greens-theorem-an-overview/",
+      "videoUrl": "https://player.vimeo.com/video/57630294?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Green's theorem - boundary",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-4/greens-theorem-boundary/",
+      "videoUrl": "https://player.vimeo.com/video/57630339?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Calculate line integral over a boundary - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-4/calculate-line-integral-over-a-boundary-a/",
+      "videoUrl": "https://player.vimeo.com/video/57630386?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Calculate line integral over a boundary - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-4/calculate-line-integral-over-a-boundary-b/",
+      "videoUrl": "https://player.vimeo.com/video/57630502?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Stokes' theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-4/stokes-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/57630566?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Divergence theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-4/divergence-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/57630626?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 5",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-5/",
+    "videos": [{
+      "name": "Parametric surfaces",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-5/parametric-surfaces/",
+      "videoUrl": "https://player.vimeo.com/video/57630686?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Problem on parametric surfaces",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-5/problem-on-parametric-surfaces/",
+      "videoUrl": "https://player.vimeo.com/video/57630718?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Normal component of acceleration",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-5/normal-component-of-acceleration/",
+      "videoUrl": "https://player.vimeo.com/video/57630774?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Surface area - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-5/surface-area-a/",
+      "videoUrl": "https://player.vimeo.com/video/57630815?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Surface area - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-5/surface-area-b/",
+      "videoUrl": "https://player.vimeo.com/video/57630856?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 6",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-6/",
+    "videos": [{
+      "name": "Surface integrals",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-6/surface-integrals/",
+      "videoUrl": "https://player.vimeo.com/video/57630905?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Problem on surface integrals - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-6/problem-on-surface-integrals-a/",
+      "videoUrl": "https://player.vimeo.com/video/57630959?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Problem on surface integrals - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-6/problem-on-surface-integrals-b/",
+      "videoUrl": "https://player.vimeo.com/video/57631001?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 7",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-7/",
+    "videos": [{
+      "name": "Proof - The Divergence Theorem",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-7/proof-the-divergence-theorem/",
+      "videoUrl": "https://player.vimeo.com/video/70408023?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Problem on divergence theorem - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-7/problem-on-divergence-theorem-a/",
+      "videoUrl": "https://player.vimeo.com/video/57631040?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Problem on divergence theorem - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-15/section-7/problem-on-divergence-theorem-b/",
+      "videoUrl": "https://player.vimeo.com/video/57631096?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}, {
+  "name": "Chapter 16",
+  "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/",
+  "sections": [{
+    "name": "Section 1",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-1/",
+    "videos": [{
+      "name": "Introduction to exact differential equations",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-1/introduction-to-exact-differential-equations/",
+      "videoUrl": "https://player.vimeo.com/video/57631225?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Solving an exact differential equation",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-1/solving-an-exact-differential-equation/",
+      "videoUrl": "https://player.vimeo.com/video/57631343?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Integrating factor",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-1/integrating-factor/",
+      "videoUrl": "https://player.vimeo.com/video/57631401?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 2",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-2/",
+    "videos": [{
+      "name": "Proof - Linear combinations of solutions",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-2/proof-linear-combinations-of-solutions/",
+      "videoUrl": "https://player.vimeo.com/video/70405488?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Second-order linear differential equation - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-2/second-order-linear-differential-equation-a/",
+      "videoUrl": "https://player.vimeo.com/video/57631444?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Second-order linear differential equation - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-2/second-order-linear-differential-equation-b/",
+      "videoUrl": "https://player.vimeo.com/video/57631494?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Characteristic equation with complex zeros",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-2/characteristic-equation-with-complex-zeros/",
+      "videoUrl": "https://player.vimeo.com/video/57631546?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Homogeneous differential equations",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-2/homogeneous-differential-equations/",
+      "videoUrl": "https://player.vimeo.com/video/57631595?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 3",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-3/",
+    "videos": [{
+      "name": "Applications of differential equations",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-3/applications-of-differential-equations/",
+      "videoUrl": "https://player.vimeo.com/video/57631646?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to second-order nonhomogeneous linear equations - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-3/introduction-to-second-order-nonhomogeneous-linear-equations-a/",
+      "videoUrl": "https://player.vimeo.com/video/57631720?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Introduction to second-order nonhomogeneous linear equations - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-3/introduction-to-second-order-nonhomogeneous-linear-equations-b/",
+      "videoUrl": "https://player.vimeo.com/video/63333158?api=1&id=moog&player_id=moog"
+    }]
+  }, {
+    "name": "Section 4",
+    "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-4/",
+    "videos": [{
+      "name": "Power series solution of a differential equation - A",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-4/power-series-solution-of-a-differential-equation-a/",
+      "videoUrl": "https://player.vimeo.com/video/57631927?api=1&id=moog&player_id=moog"
+    }, {
+      "name": "Power series solution of a differential equation - B",
+      "url": "http://www.larsoncalculus.com/calc10/content/proof-videos/chapter-16/section-4/power-series-solution-of-a-differential-equation-b/",
+      "videoUrl": "https://player.vimeo.com/video/63333242?api=1&id=moog&player_id=moog"
+    }]
+  }]
+}]
